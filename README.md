@@ -1,1 +1,1 @@
-Samo stavljan commit, da mi bude pri vrhu profila, da ga ne išćen ko trube
+TODO: napisat nešto pametno u ovaj readme
